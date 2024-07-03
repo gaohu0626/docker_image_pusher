@@ -1,4 +1,4 @@
-nginx:
+nginx:1.20
 prom/node-exporter-linux-arm64:v1.8.1
 prom/prometheus-linux-arm64:v2.53.0
 prom/alertmanager-linux-arm64:v0.27.0
